@@ -109,8 +109,7 @@ coverage
 ehthumbs.db
 Thumbs.db
 
-# Docker
-.dockerignore
+
 
 # Database
 *.db
